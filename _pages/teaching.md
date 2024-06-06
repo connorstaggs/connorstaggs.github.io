@@ -21,9 +21,9 @@ author_profile: true
 *Teaching assistant for Ashutosh Varshney*
 
 
-- Introductory course on the political economy of development, covering foundational theories and concepts. 
+- Introductory course on the political economy of development, covering foundational concepts, theories, and debates. 
 
-- I led two weekly discussion sections for, graded a series of three essays for each student, and administered and graded the final exam for all students.
+- I led two weekly discussion sections, graded a series of three essays for each student, and administered and graded the final exam for all students.
 
 ## Princeton University 
 
