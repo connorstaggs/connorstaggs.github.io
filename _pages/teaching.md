@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-==== 
 ## Brown University
 
 ### POLS 1020: Politics of the Illicit Global Economy (Fall 2023)
