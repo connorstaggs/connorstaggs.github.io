@@ -9,8 +9,8 @@ redirect_from:
 
 Greetings!
 
-I am a Ph.D. candidate in the Department of Political Science at Brown University. My research interests include ethnic conflict, the political economy of development, and vigilante politics, with a regional focus on South Asia. 
+I am a Ph.D. candidate in the Department of Political Science at Brown University. My research interests include ethnic conflict, vigilante politics, and the political economy of development (with some spillover into IPE). Regionally, I specialize in South Asian politics. In terms of methodology, I have substantial training in quantitative and mixed-methods research, including machine learning, experiments, and surveys, in addition to interviews and focus group discussions. 
 
-I have substantial training in quantitative research methods, including machine learning, experiments, and surveys. I hold a Sc.M. in Data Science and an A.M. in political science from Brown, as well as an A.B. with Honors in Politics from Princeton. At Brown, I have held academic fellowships through the Graduate Program in Development (GPD) and the Open Graduate Education (OGE) Program. Prior to Brown, I was a Clinton Fellow with the American India Foundation. 
+I hold a Sc.M. in Data Science and an A.M. in political science from Brown, as well as an A.B. with Honors in Politics from Princeton. At Brown, I have held competitive academic fellowships through the Graduate Program in Development (GPD) and the Open Graduate Education (OGE) Program. I am also affiliated with the Saxena Center for Contemporary South Asia at the Watson Institute for Public & International Affairs. Prior to Brown, I was a Clinton Fellow with the American India Foundation, where I worked in community-based journalism in India. 
 
 I will be on the job market in the 2024-2025 academic year. 
