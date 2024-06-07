@@ -10,13 +10,13 @@ author_profile: true
 
 We present comprehensive, original data on a new variety of international agreements -- so-called mutual recognition agreements (MRAs). We leverage global dyadic trade data to estimate a series of gravity models, and we find that these new agreements are associated with substantially higher bilateral trade across a variety of model specifications and country subsets. 
 
-[Download PDF](https://connorstaggs.github.io/assets/trade_effects_of_MRAs.pdf)
+[Download PDF](https://connorstaggs.github.io/assets/trade_effects_of_MRAs.pdf)<i class="fa fa-file-pdf-o"></i>
 
 ## "Hindu Nationalism and the New Jim Crow" (with Ashutosh Varshney). *Journal of Democracy*, January 2024. 
 
 This paper demonstrates how the same fundamental tools - exclusionary laws, segregation, and vigilante violence - have been used to forge regimes of ethnic marginalization in both the Jim Crow-era South and in modern-day India. 
 
-[Download PDF](https://connorstaggs.github.io/assets/Hindu_nationalism_and_the_new_jim_crow_varshney_staggs.pdf)
+[Download PDF](https://connorstaggs.github.io/assets/Hindu_nationalism_and_the_new_jim_crow_varshney_staggs.pdf)<i class="fa fa-file-pdf-o"></i>
 
 <!--
 {% if site.author.googlescholar %}
