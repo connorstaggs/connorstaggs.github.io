@@ -28,7 +28,7 @@ author_profile: true
 
 ### POL 200: Political Theory (Spring 2017)
 
-* Undergraduate teaching assistant for Melissa Lane*
+*Undergraduate teaching assistant for Melissa Lane*
 
 - As part of the Community-Based Learning Initiative (CBLI), I led discussion groups with community course auditors and students from an A.P. Government class with two other undergraduate TAs.
 
