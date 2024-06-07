@@ -11,7 +11,7 @@ author_profile: true
 
 *Teaching assistant for Peter Andreas*
 
-- Upper-level undergraduate lecture course on illicit globalization, including transnational crime, migration, drug trafficking, and related topics. 
+- Upper-level undergraduate lecture course on illicit globalization, addressing the politics of transnational crime and enforcement. Topics included migration, drug trafficking, human smuggling, financial crimes, and related topics.
 
 - I led two weekly discussion sections and graded three written exams alongside three other graduate TAs.
 
@@ -28,7 +28,7 @@ author_profile: true
 
 ### POL 200: Political Theory (Spring 2017)
 
-*Teaching assistant for Melissa Lane*
+* Undergraduate teaching assistant for Melissa Lane*
 
 - As part of the Community-Based Learning Initiative (CBLI), I led discussion groups with community course auditors and students from an A.P. Government class with two other undergraduate TAs.
 
